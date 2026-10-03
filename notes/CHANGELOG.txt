@@ -1,0 +1,3 @@
+/* rev-a7c31e-20261003 */
+CHANGELOG.txt
+2026.08.19 Aug 19 2026: YouTube clients, TikTok, Instagram, curl_cffi

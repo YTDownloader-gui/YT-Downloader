@@ -1,0 +1,3 @@
+/* rev-a7c31e-20261003 */
+USAGE.txt
+extract, run yt-dlp.exe or GUI, paste URL, pick format
